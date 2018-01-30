@@ -16,6 +16,7 @@ On OnCreate method, call setCoordinatorLayout like this:
 On xml layout, use it like this:
 
 //set the filepath where MovableFAB is in
+
 <com.filepath.MovableFloatingActionButton
         android:id="@+id/fab"
         android:layout_width="match_parent"
