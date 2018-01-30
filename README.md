@@ -28,3 +28,7 @@ On xml layout, use it like this:
         	app:fabSize="normal"
         	app:layout_anchorGravity="bottom|right|end" 
 	/>
+	
+<p align="center"> 
+	<img src="/test.gif" alt="example"/>
+</p>
